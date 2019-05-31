@@ -1,3 +1,5 @@
+![depshield](https://cpeters1.dev.depshield.sonatype.org/badges/:Blacktiger/:grgit/depshield.svg)
+
 # grgit
 
 [![Download](https://api.bintray.com/packages/ajoberstar/maven/grgit/images/download.svg)](https://bintray.com/ajoberstar/maven/grgit/_latestVersion)
