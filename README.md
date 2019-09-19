@@ -1,4 +1,4 @@
-![depshield](https://cpeters1.dev.depshield.sonatype.org/badges/:Blacktiger/:grgit/depshield.svg)
+[![DepShield Badge](https://staging.depshield.sonatype.org/badges/yourgithubaccount/yourrepository/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
 
 # grgit
 
